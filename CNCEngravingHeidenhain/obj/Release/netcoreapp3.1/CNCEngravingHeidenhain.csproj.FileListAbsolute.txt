@@ -1,0 +1,13 @@
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\bin\Release\netcoreapp3.1\CNCEngravingHeidenhain.exe
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\bin\Release\netcoreapp3.1\CNCEngravingHeidenhain.deps.json
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\bin\Release\netcoreapp3.1\CNCEngravingHeidenhain.runtimeconfig.json
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\bin\Release\netcoreapp3.1\CNCEngravingHeidenhain.runtimeconfig.dev.json
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\bin\Release\netcoreapp3.1\CNCEngravingHeidenhain.dll
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\bin\Release\netcoreapp3.1\CNCEngravingHeidenhain.pdb
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\obj\Release\netcoreapp3.1\CNCEngravingHeidenhain.csprojAssemblyReference.cache
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\obj\Release\netcoreapp3.1\CNCEngravingHeidenhain.AssemblyInfoInputs.cache
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\obj\Release\netcoreapp3.1\CNCEngravingHeidenhain.AssemblyInfo.cs
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\obj\Release\netcoreapp3.1\CNCEngravingHeidenhain.csproj.CoreCompileInputs.cache
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\obj\Release\netcoreapp3.1\CNCEngravingHeidenhain.dll
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\obj\Release\netcoreapp3.1\CNCEngravingHeidenhain.pdb
+D:\Git\CNCEngravingHeidenhain\CNCEngravingHeidenhain\obj\Release\netcoreapp3.1\CNCEngravingHeidenhain.genruntimeconfig.cache
